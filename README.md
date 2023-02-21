@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pirlmaia
-- 👀 I’m interested in automation for selling products online, and learning.
+- 👋 Hi, I’m @GeoMaia
+- 👀 I’m interested in programming for webdesign, selling products online, and learning.
 - 🌱 I’m currently learning the basics of coding.
 - 💞️ I’m looking to collaborate on anything that i can handle.
-- 📫 How to reach me ...
+- 📫 reach me in geovanimendes.maia@gmail.com or wa.me/5538984184424
 
 <!---
 Pirlmaia/Pirlmaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
